@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+python-dotenv
+httpx
+loguru
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+sqlalchemy
